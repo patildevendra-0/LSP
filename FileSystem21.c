@@ -11,7 +11,7 @@ struct Student
     float Marks;
     int Age;   
 };
-
+       
 int main(int argc ,char argv[]) 
 {
 
